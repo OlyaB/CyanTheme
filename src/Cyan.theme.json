@@ -104,8 +104,8 @@
       "errorBackground": "#f5e1e4",
       "errorBorderColor": "#e695a3",
       "ToolWindow": {
-        "informativeBackground": "#d3f2d6",
-        "informativeBorderColor": "#91c295",
+        "informativeBackground": "#ccedcf",
+        "informativeBorderColor": "#8ebd91",
         "warningBackground": "#f0e4c0",
         "warningBorderColor": "#d9b857",
         "errorBackground": "#fad7dd",
