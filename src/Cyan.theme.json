@@ -82,10 +82,10 @@
       "selectedBackground": "#f3f3f3",
       "inactiveMaskColor": "#959aa64D"
     },
-    "DebuggerTabs.selectedBackground": "#f3f3f3",
+    "DebuggerTabs.selectedBackground": "#e4e6eb",
 
-    "FileColor.Yellow": "#f5f0cb",
-    "FileColor.Green": "#d3f2d6",
+    "FileColor.Yellow": "#f2efda",
+    "FileColor.Green": "#d8f0e2",
     "FileColor.Blue": "#d3f0f4",
 
     "Label.errorForeground": "#C7222D",
@@ -101,15 +101,15 @@
 
     "Notification": {
       "MoreButton.innerBorderColor": "#bec5cd",
-      "errorBackground": "#f0c0c8",
-      "errorBorderColor": "#cc6677",
+      "errorBackground": "#f5e1e4",
+      "errorBorderColor": "#e695a3",
       "ToolWindow": {
         "informativeBackground": "#d3f2d6",
-        "informativeBorderColor": "#82ba86",
-        "warningBackground": "#e6d598",
-        "warningBorderColor": "#d8ad12",
-        "errorBackground": "#f0c0c8",
-        "errorBorderColor": "#cc6677"
+        "informativeBorderColor": "#91c295",
+        "warningBackground": "#f0e4c0",
+        "warningBorderColor": "#d9b857",
+        "errorBackground": "#fad7dd",
+        "errorBorderColor": "#e68a99"
       }
     },
 
@@ -144,7 +144,11 @@
       "trackColor": "#c4c9d5",
       "progressColor": "#2b9cb8",
       "indeterminateStartColor": "#b8dde6",
-      "indeterminateEndColor": "#2b9cb8"
+      "indeterminateEndColor": "#2b9cb8",
+      "passedEndColor": "#bcebd5",
+      "passedColor": "#1eb070",
+      "failedEndColor": "#e6b8bf",
+      "failedColor": "#dc445d"
     },
 
     "SearchEverywhere":  {
@@ -219,7 +223,7 @@
 
       "Objects.Grey": "#858994",
       "Objects.RedStatus": "#dc445d",
-      "Objects.Red": "#ec4b65",
+      "Objects.Red": "#de546e",
       "Objects.Pink": "#f070a5",
       "Objects.Yellow": "#e6ba29",
       "Objects.Green": "#1eb070",
