@@ -10,9 +10,9 @@
       "background": "#e4e6eb",
       "foreground": "#1d1d1d",
 
-      "selectionBackground": "#29abcb",
-      "selectionBackgroundInactive": "#cadde5",
-      "selectionInactiveBackground": "#cadde5",
+      "selectionBackground": "#3eb2c2",
+      "selectionBackgroundInactive": "#d0d5db",
+      "selectionInactiveBackground": "#d0d5db",
 
       "disabledForeground": "#b1b1b1",
       "disabledText": "#b1b1b1",
@@ -21,7 +21,9 @@
       "infoForeground": "#787878",
 
       "separatorColor": "#bec5cd",
-      "borderColor": "#bec5cd"
+      "borderColor": "#bec5cd",
+
+      "underlineColor": "#29abcb"
     },
 
     "ActionButton": {
@@ -167,7 +169,6 @@
     "SpeedSearch.errorForeground": "#C7222D",
 
     "TabbedPane": {
-      "underlineColor": "#29abcb",
       "hoverColor": "#d4d8e0",
       "focusColor": "#dbebed",
       "contentAreaColor": "#bec5cd"
@@ -230,7 +231,7 @@
       "Objects.Blue": "#499df2",
       "Objects.Purple": "#bc8af2",
       "Objects.YellowDark": "#b79108",
-      "Objects.BlackText": "#313338",
+      "Objects.BlackText": "#26282b",
 
       "Checkbox.Background.Default": "#f3f3f3",
       "Checkbox.Border.Default": "#8a9199",
