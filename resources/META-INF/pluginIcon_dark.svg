@@ -7,5 +7,6 @@
     <polygon fill="#DAE2EB" fill-rule="nonzero" points="40 40 40 78 73 59"/>
     <polygon fill="#B8C9D1" fill-rule="nonzero" points="73 21 40 40 73 59"/>
     <polygon fill="#82D3DD" fill-rule="nonzero" points="40 2 40 40 73 21"/>
+    <polygon fill="#000" fill-opacity=".21" fill-rule="nonzero" points="7 21 7 59 40 78 73 59 73 21 40 2"/>
   </g>
 </svg>
