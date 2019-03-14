@@ -17,7 +17,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="IntelliJ IDEA IU-191.613" project-jdk-type="IDEA JDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="IntelliJ IDEA IU-191.500" project-jdk-type="IDEA JDK">
     <output url="file://$PROJECT_DIR$/resources/out" />
   </component>
 </project>
