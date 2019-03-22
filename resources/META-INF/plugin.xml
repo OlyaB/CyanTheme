@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.jetbrains.CyanTheme</id>
   <name>Cyan Light Theme</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <vendor email="olga.berdnikova@jetbrains.com" url="http://jetbrains.com">JetBrains</vendor>
 
   <description><![CDATA[
@@ -25,6 +25,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+  <b>1.0.1</b>
+  <ul>
+    <li>Add installation instructions</li>
+    <li>Unbundle plugin screenshots</li>
+  </ul>
     ]]>
   </change-notes>
 
