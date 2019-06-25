@@ -13,6 +13,7 @@
       "selectionBackground": "#3eb2c2",
       "selectionBackgroundInactive": "#d0d5db",
       "selectionInactiveBackground": "#d0d5db",
+      "lightSelectionBackground": "#d3e4eb",
 
       "disabledForeground": "#b1b1b1",
       "disabledText": "#b1b1b1",
@@ -137,12 +138,12 @@
     "PasswordField.background": "#FFFFFF",
 
     "Plugins": {
-      "background": "#FFFFFF",
+      "background": "#f5f7fa",
       "SearchField.background": "#FFFFFF",
       "SectionHeader.foreground": "#808080",
+      "SectionHeader.background": "#edeef2",
       "Tab.selectedBackground": "#cacccf",
-      "Tab.hoverBackground": "#cacccf",
-      "lightSelectionBackground": "#cadde5"
+      "Tab.hoverBackground": "#cacccf"
     },
 
     "Popup": {
