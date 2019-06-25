@@ -24,7 +24,7 @@
       "separatorColor": "#bec5cd",
       "borderColor": "#bec5cd",
 
-      "underlineColor": "#29abcb"
+      "underlineColor": "#0ab0d1"
     },
 
     "ActionButton": {
@@ -78,6 +78,11 @@
       "foreground": "#FFFFFF"
     },
 
+    "DefaultTabs": {
+      "inactiveUnderlineColor": "#8699a6",
+      "hoverBackground": "#ced2d9"
+    },
+
     "Editor": {
       "background": "#d0d3d9",
       "foreground": "#808080",
@@ -88,7 +93,13 @@
 
     "EditorTabs": {
       "selectedBackground": "#f3f3f3",
-      "inactiveMaskColor": "#4752661A"
+      "inactiveMaskColor": "#4752661A",
+
+      "underlineColor": "#29abcb",
+
+      "underlinedTabBackground": "#f2f4f5",
+      "inactiveColoredFileBackground": "#a6a9b350",
+      "hoverBackground": "#b9bdc999"
     },
 
     "DebuggerTabs.selectedBackground": "#e4e6eb",
@@ -180,7 +191,7 @@
     },
 
     "TabbedPane": {
-      "hoverColor": "#d4d8e0",
+      "hoverColor": "#ced2d9",
       "focusColor": "#dbebed",
       "contentAreaColor": "#bec5cd"
     },
@@ -211,14 +222,14 @@
 
     "ToolWindow": {
       "Header": {
-        "background": "#d1d5e2",
+        "background": "#d8dee8",
         "inactiveBackground": "#e4e6eb"
       },
       "HeaderTab": {
-        "selectedBackground": "#b9bdc9",
-        "hoverBackground": "#b9bdc9",
+        "selectedBackground": "#b9bec7",
+        "hoverBackground": "#b9bdc999",
         "selectedInactiveBackground": "#CED1D6",
-        "hoverInactiveBackground": "#CED1D6"
+        "hoverInactiveBackground": "#b9bdc999"
       },
       "Button": {
         "selectedBackground": "#C3C6C9",
