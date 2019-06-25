@@ -187,7 +187,11 @@
 
     "Table.background": "#eef0f4",
 
-    "TableHeader.cellBorder": "3,0,3,0",
+    "TableHeader": {
+      "cellBorder": "3,0,3,0",
+      "background": "#e9ecf0",
+      "bottomSeparatorColor": "#dfe2e6"
+    },
 
     "TextArea.background": "#FFFFFF",
 
