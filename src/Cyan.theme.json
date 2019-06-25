@@ -63,7 +63,8 @@
     "CompletionPopup": {
       "foreground": "#404040",
       "infoForeground": "#8c8c8c",
-      "selectionInactiveBackground": "#c2c7cc"
+      "selectionBackground": "#a1dde6",
+      "selectionInactiveBackground": "#d0d4d9"
     },
 
     "Component": {
