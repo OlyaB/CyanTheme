@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.jetbrains.CyanTheme</id>
   <name>Cyan Light Theme</name>
-  <version>1.0.1</version>
+  <version>1.1</version>
   <vendor email="olga.berdnikova@jetbrains.com" url="http://jetbrains.com">JetBrains</vendor>
 
   <description><![CDATA[
