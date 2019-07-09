@@ -66,7 +66,10 @@
       "infoForeground": "#8c8c8c",
       "selectionBackground": "#bce2e6",
       "selectionInactiveBackground": "#d7dbe0",
-      "matchForeground": "#00a0d1"
+      "matchForeground": "#00a0d1",
+      "selectionForeground": "#404040",
+      "selectionInfoForeground": "#8c8c8c",
+      "matchSelectionForeground": "#00a0d1"
     },
 
     "Component": {
