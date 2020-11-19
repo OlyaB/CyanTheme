@@ -88,6 +88,10 @@
       "hoverBackground": "#ced2d9"
     },
 
+    "DragAndDrop": {
+      "areaBackground": "#4cb2c733"
+    },
+
     "Editor": {
       "background": "#d0d3d9",
       "foreground": "#808080",
