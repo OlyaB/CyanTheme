@@ -242,7 +242,12 @@
       }
     },
 
-    "Tree.background": "#eef0f4"
+    "Tree.background": "#eef0f4",
+
+    "WelcomeScreen": {
+      "Details.background": "#eef0f4",
+      "Projects.actions.background": "#E1E4EB"
+    }
   },
 
   "icons": {
