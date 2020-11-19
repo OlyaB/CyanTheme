@@ -205,7 +205,10 @@
       "contentAreaColor": "#bec5cd"
     },
 
-    "Table.background": "#eef0f4",
+    "Table": {
+      "background": "#eef0f4",
+      "hoverBackground": "#C3D2E366"
+    },
 
     "TableHeader": {
       "cellBorder": "3,0,3,0",
